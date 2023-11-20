@@ -6,5 +6,6 @@ to-do:
 
 1 create character array------complete
 2 build character comparison -------complete
-3 connect results to html tag ---- pending
-3 account for symbols and spacing ----- pending
+3 connect results to html tag ---- complete
+4 style app ----- pending
+5 account for symbols and spacing ----- pending
