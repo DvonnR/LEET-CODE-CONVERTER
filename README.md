@@ -4,6 +4,7 @@ This is a WIP that app will convert your text into leet speak using HTML,CSS, an
 
 to-do:
 
-1 create character array
-2 build character comparison 
-3 account for symbols and spacing
+1 create character array------complete
+2 build character comparison -------complete
+3 connect results to html tag ---- pending
+3 account for symbols and spacing ----- pending
