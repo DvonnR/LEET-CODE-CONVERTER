@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:"work sans";
+}
+
+.container{
+    position:relative;
+    background-color:red;
+    margin:0 auto;
+    width:1200px;
+    
+}
+
+.greeting{
+    font-weight:400;
+}
+.header{
+    text-align:center;
+    position:absolute;
+    left:320px;
+    top:25px;
+    margin-top:20px;
+}
+
+.input{
+    position:absolute;
+    top:100px;
+    left:310px;
+}
+
+.board{
+    background-color:green;
+    width: 700px;
+    height:auto;
+    position:absolute;
+    top:450px;
+    left:300px;
+}
+#output{
+    background-color:yellow;
+    font-size:20px;
+    text-align: center;
+    
+    
+    font-weight:400;
+    
+}
