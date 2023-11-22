@@ -21,7 +21,7 @@ if(info == ""){
 }
 
 else if(info !== ""){
-
+    result = "";
     info = info.toUpperCase()
     console.log(info);
    

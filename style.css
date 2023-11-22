@@ -30,19 +30,31 @@
 }
 
 .board{
-    background-color:green;
+    
     width: 700px;
-    height:auto;
+    height:400px;
+    padding:30px;
+    border: solid 2px;
+    overflow-y: scroll;
     position:absolute;
     top:450px;
-    left:300px;
+    left:230px;
 }
 #output{
-    background-color:yellow;
+   
     font-size:20px;
     text-align: center;
+    margin-top:50px;
     
     
     font-weight:400;
     
+}
+.spacer{
+    
+    width:780px;
+    height:30px;
+    position:absolute;
+    top:940px;
+    left:230px;
 }
