@@ -30,12 +30,21 @@ for(var i = 0; i < info.length; i++){
     for(var k = 0; k < alpha.length; k++){
         console.log("your in  the right loop");
         
-        if(alpha[k] == info[i])
+        if(alpha[k] == info[i] || info[i] == "'")
         {
+
+            if(info[i] == "'"){
+                result += alpha[55];
+                console.log("if statment for quotes working");
+                break;
+                
+            }
+            else{
             console.log("youre in the  else if statment");
             result += data[k];
             console.log(result);
             break;
+        }
         }
     }
     console.log(info[i]);
